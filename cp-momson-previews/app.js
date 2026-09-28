@@ -14,7 +14,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
   const products = [
     {
       title: "NEW PREMIUM CP",
-      video: "./assets/videos/video1.mp4",
+      video: "assets/videos/video1.mp4",
       desc: "CP NEW PREMIUM",
       chips: ["CHILD", "HOT", "2026"],
       badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -25,7 +25,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "RAPE FULL",
-      video: "./assets/videos/video2.mp4",
+      video: "assets/videos/video2.mp4",
       desc: "* MORE THAN 789 VIDEOS 68.1GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["cumming", "NEW", "RARE"],
       badges: [{ label: "🚀 TRENDING", cls: "hot" }, { label: "✅ VERIFIED", cls: "new" }],
@@ -36,7 +36,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "TEENS 5-17",
-      video: "./assets/videos/video3.mp4",
+      video: "assets/videos/video3.mp4",
       desc: "MORE THAN 820 VIDEOS 71.4GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["LONG VIDEOS", "TRENDING", "FRESH"],
       badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
@@ -47,7 +47,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "FULL CP GAY",
-      video: "./assets/videos/video4.mp4",
+      video: "assets/videos/video4.mp4",
       desc: "MORE THAN 900 VIDEOS 58GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["58GB+", "FEATURED", "BEST"],
       badges: [{ label: "💎 VIP", cls: "premium" }, { label: "🚀 NEW DROP", cls: "new" }],
@@ -58,7 +58,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "BABY PORN",
-      video: "./assets/videos/video5.mp4",
+      video: "assets/videos/video5.mp4",
       desc: "NEW BABY PORN VIDEOS, BLOWJOB AND FUCKING, BLACK AND WHITE BABYs",
       chips: ["43GB", "+590 VIDEOS", "BABYs"],
       badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -69,7 +69,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "FULL CP",
-      video: "./assets/videos/video6.mp4",
+      video: "assets/videos/video6.mp4",
       desc: "PREMIUM CONTENT BUNDLE WITH ALL CP, MORE THAN 104,000 VIDEOS",
       chips: ["1.9TB", "all CP", "LIFETIME ACESS"],
       badges: [{ label: "🚀 TRENDING", cls: "hot" }, { label: "✅ VERIFIED", cls: "new" }],
@@ -80,7 +80,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "BLOWJOB CP",
-      video: "./assets/videos/video7.mp4",
+      video: "assets/videos/video7.mp4",
       desc: "MORE THAN 900 VIDEOS! 86.59GB of exclusive content Complete and well-organized folder Premium quality content Instant access for the best experience!",
       chips: ["WHITHE & BLACK", "TRENDING", "FRESH"],
       badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
@@ -91,7 +91,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "EXCLUSIVE CP",
-      video: "./assets/videos/video8.mp4",
+      video: "assets/videos/video8.mp4",
       desc: "* MORE THAN 400 VIDEOS 6GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["8GB+", "VERIFIED", "INSTANT"],
       badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
@@ -102,7 +102,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "CP PARADISE",
-      video: "./assets/videos/video9.mp4",
+      video: "assets/videos/video9.mp4",
       desc: "* MORE THAN 1400 Videos IN TOTAL",
       chips: ["75GB+", "VIP", "FAMOUS"],
       badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
@@ -113,7 +113,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "BOYS",
-      video: "./assets/videos/video10.mp4",
+      video: "assets/videos/video10.mp4",
       desc: "* MORE THAN 900 VIDEOS 68.25GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["GOURGEUS", "PREMIUM", "VIP"],
       badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
@@ -124,7 +124,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "BLACK CP",
-      video: "./assets/videos/video11.mp4",
+      video: "assets/videos/video11.mp4",
       desc: "* MORE THAN 700 VIDEOS 48GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["48GB+", "TOP", "2026"],
       badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
@@ -135,7 +135,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "MIX TEENS",
-      video: "./assets/videos/video12.mp4",
+      video: "assets/videos/video12.mp4",
       desc: "* MORE THAN 1870+ VIDEOS 98GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["98GB+", "VERIFIED", "INSTANT"],
       badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
@@ -146,7 +146,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "FATHER & DAUGTHER",
-      video: "./assets/videos/video13.mp4",
+      video: "assets/videos/video13.mp4",
       desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
       chips: ["95GB+", "VIP", "POPULAR"],
       badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
@@ -157,7 +157,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "TEENS & DOGS",
-      video: "./assets/videos/video14.mp4",
+      video: "assets/videos/video14.mp4",
       desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
       chips: ["77GB+", "HOT", "2026"],
       badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -168,7 +168,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "NEW PYT STUFF & GIRLS",
-      video: "./assets/videos/video15.mp4",
+      video: "assets/videos/video15.mp4",
       desc: "* MORE THAN 279 VIDEOS 8.5GB IN TOTAL MY COMPLETE FOLDER",
       chips: ["47GB+", "PREMIUM", "VIP"],
       badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
@@ -179,7 +179,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "INCEST",
-      video: "./assets/videos/video16.mp4",
+      video: "assets/videos/video16.mp4",
       desc: "* PREMIUM CP PEDO",
       chips: ["44GB+", "TOP", "2026"],
       badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
@@ -190,7 +190,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "MOM AND SON",
-      video: "./assets/videos/video17.mp4",
+      video: "assets/videos/video17.mp4",
       desc: "* MOM AND SON CP AVAILABLE",
       chips: ["78GB+", "VERIFIED", "INSTANT"],
       badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
@@ -201,7 +201,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "FATHER AND DAUGHTER CP",
-      video: "./assets/videos/video18.mp4",
+      video: "assets/videos/video18.mp4",
       desc: "* FATHER AND DAUGHTER",
       chips: ["25GB+", "VIP", "POPULAR"],
       badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
@@ -212,7 +212,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "C#P 2-13 PEDO FATHER",
-      video: "./assets/videos/video19.mp4",
+      video: "assets/videos/video19.mp4",
       desc: "* MORE THAN 100 VIDEOS",
       chips: ["53GB+", "PREMIUM", "VIP"],
       badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
@@ -223,7 +223,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "CP BRO AND SIS",
-      video: "./assets/videos/video20.mp4",
+      video: "assets/videos/video20.mp4",
       desc: "CHILDREN INCEST & SIS AND BRO",
       chips: ["INCEST", "TOP", "2026"],
       badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
@@ -234,7 +234,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "CP 0-5",
-      video: "./assets/videos/video21.mp4",
+      video: "assets/videos/video21.mp4",
       desc: "* Amelia Teen Leaks",
       chips: ["35GB+", "TRENDING", "FRESH"],
       badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
@@ -245,7 +245,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "MONKEY APP LEAKED",
-      video: "./assets/videos/video22.mp4",
+      video: "assets/videos/video22.mp4",
       desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
       chips: ["98GB+", "VERIFIED", "INSTANT"],
       badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
@@ -256,7 +256,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "BLOWJOB CHILDREN 4-9",
-      video: "./assets/videos/video23.mp4",
+      video: "assets/videos/video23.mp4",
       desc: "* 85GB IN TOTAL",
       chips: ["25GB+", "VIP", "POPULAR"],
       badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
@@ -267,7 +267,7 @@ const ZANGI_URL = CONFIG.zangiUrl;
     },
     {
       title: "ORGIES & INCEST",
-      video: "./assets/videos/video24.mp4",
+      video: "assets/videos/video24.mp4",
       desc: "* OVER 500 VIDEOS 5.19GB IN TOTAL MORE THAN 200 BLACKMAIL VIDEOS Incest MY COMPLETE FOLDER",
       chips: ["57GB+", "INCEST", "2026"],
       badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
