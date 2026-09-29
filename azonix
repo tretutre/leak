@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Azonix';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Azonix'), url('https://fonts.cdnfonts.com/s/16327/Azonix.woff') format('woff');
+}
+
+
